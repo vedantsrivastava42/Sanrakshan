@@ -1,0 +1,27 @@
+.pending-requests-container {
+  padding: 40px;
+  max-width: 1200px;
+  margin: 0 auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pending-requests-container h2 {
+  color: #272343;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 28px;
+}
+
+.requests-list {
+  background-color: #e3f6f5;
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.requests-list p {
+  color: #272343;
+  font-size: 18px;
+  text-align: center;
+  margin: 0;
+}
